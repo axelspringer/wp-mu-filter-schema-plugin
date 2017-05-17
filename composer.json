@@ -1,0 +1,20 @@
+{
+    "name": "muplugin/asse-filter-schema-plugin",
+    "type": "wordpress-muplugin",
+    "description": "Filter schema plugin and gravatar",
+    "keywords": [
+        "wordpress",
+        "muplugin"
+    ],
+    "authors": [
+        {
+            "name": "Sebastian Döll",
+            "homepage": "http://www.axelspringer.de"
+        }
+    ],
+    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-filter-schema-plugin",
+    "license": "proprietary",
+    "extra": {
+        "installer-name": "asse-filter-schema-plugin"
+    }
+}
